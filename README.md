@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Лабораторная работа №2. HTTP-запросы и шаблонизация в Laravel
 
 - [Лабораторная работа №2](#лабораторная-работа-2-http-запросы-и-шаблонизация-в-laravel)
@@ -258,3 +259,6 @@ public function show($id)
    3. Update (Обновление): PUT или PATCH
    4. Delete (Удаление): DELETE
 ![home](https://github.com/user-attachments/assets/9f377ad8-73f2-4d64-beb8-23bd1aea6edf)
+=======
+# laravel4
+>>>>>>> a87a3a4925b329e58a2932cda73d36d4481625dc
